@@ -13,4 +13,4 @@ Among the strategies, limited-angle CT scans are being used for reducing radiati
 However, the limited angle scans cause severe artifacts in the images reconstructed by using conventional reconstruction algorithms, 
 such as filtered back-projection (FBP), due to insufficient data. 
 To solve this issue, various methods have been proposed to replace conventional reconstruction algorithms. 
-In this study, we proposed a data-driven deep learning-based limited-angle CT reconstruction method.
+In this code, we proposed a data-driven deep learning-based limited-angle CT reconstruction method.
