@@ -10,7 +10,7 @@ such as filtered back-projection (FBP), due to insufficient data.
 To solve this issue, various methods have been proposed to replace conventional reconstruction algorithms. 
 In this code, we proposed a data-driven deep learning-based limited-angle CT reconstruction method.
 
-This is based on implementation of the AUTOMAP algorithm described in the following paper: Zhu, Bo, et al. "Image reconstruction by domain-transform manifold learning." Nature 555.7697 (2018): 487.
+This is based on the AUTOMAP algorithm described in the following paper: Zhu, Bo, et al. "Image reconstruction by domain-transform manifold learning." Nature 555.7697 (2018): 487.
 
 CT는 일반 X선 촬영과 비교하여 환자에게 피폭되는 선량이 수십,수백배에 달합니다.
 따라서 적은 X선을 사용하면서도 고화질의 CT 영상을 획득할 수 있는 방법이 무엇이 있을까에 대해 생각해보았습니다.
